@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Vansh Garg
 
 <div align="center">
-  <h3>💻 Full Stack Developer 🚀</h3>
+  <h3>💻 Full Stack Developer and Tech Enthusiast 🚀</h3>
 </div>
 
 ---
