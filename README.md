@@ -27,40 +27,29 @@ I'm a highly motivated software development student with a passion for creating 
 
 ### Technical Skills 🛠️
 
-#### Languages & Frameworks
-```
-🔹 Frontend: 
-```
+**Frontend:**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-```
-🔹 Backend:
-```
+**Backend:**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-```
-🔹 Programming:
-```
+**Programming:**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-```
-🔹 Databases:
-```
+**Databases:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-```
-🔹 Tools & Core:
-```
+**Tools & Core:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-%234EA94B.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGwSURBVDhPY8AHpKWlOYEYmP4PxMHA3t5eACi2GYhB6oSB2BcoPhOI/wHxMyD+DcQ/gPgTEH8A4vdA/AaIXwLxMyB+DMQPgfgeEN8G4htAfBWILwDxGSA+BsQHgHgXEG8D4k1AvBqIF8bGxoYrKytzARVyARkCQEovLCzMA6j5FJBxH4gvAvFZID4NxMeB+AAQB4eGhrooKCjIAQ3hB2JJIJYH4hAg3gHEX4H4OxD/AOI/QPwbiH8A8Xsg/gLEn4D4OhDPB+IsIE4G4kQgjgbiUCCeDMQzgXg2EM8D4iVAvAKIVwLxWiDeAMSbgXgrEO8A4r1AfAiIJ7q7uzsDvaEBxMZArAnEekBsDcSOQOwGxIFAHAPEyUCcDcR5QFwExGVAXA3EdUDcBMStQNwBxD1APAGIZwHxAiBeAsQrgHg1EK8D4k1AvA2IdwHxPiA+DMTHgfgUEJ8F4gtAfBmIrwHxTSC+A8T3gfgREL8A4tdA/BaIPwDxFyD+BsQ/gPg3EP8B4r9ADDLsPxCDnPkPiEGGMUhISAiIiooKA7EYEEsCsQIQqwKxFhAbAbE5ENsDsTsQBwFxNBAD9TExAAB5fHh2l4TAhAAAAABJRU5ErkJggg==)
-![OS](https://img.shields.io/badge/OS-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![DSA](https://img.shields.io/badge/DSA-%234EA94B.svg?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ### Currently Learning 📚
 
