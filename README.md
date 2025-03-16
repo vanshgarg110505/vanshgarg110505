@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Vansh Garg
-https://vansh-portfolio11.netlify.app/
 
 <div align="center">
   <h3>💻 Full Stack Developer and Tech Enthusiast 🚀</h3>
@@ -10,6 +9,8 @@ https://vansh-portfolio11.netlify.app/
 ### About Me ✨
 
 I'm a highly motivated software development student with a passion for creating impactful technology solutions. Currently exploring the vast world of full-stack development and building exciting projects!
+
+https://vansh-portfolio11.netlify.app/
 
 ### Connect With Me 🤝
 
